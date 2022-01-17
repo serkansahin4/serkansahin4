@@ -1,23 +1,21 @@
-## İ am .NET Software developer.
-
-### İ Know > using C#
-
-#### WinForms and ASP.NET applications
+## 🖥️ - I am .NET Software developer.
+          
+### What i use in my projects 
 
 #### Frameworks
-###### .NET Framework
-###### .NET Core
-
+     .NET Framework
+     .NET Core
+    
 #### Databases
-###### MSSQL
+     MSSQL
 
 #### ORM Technologies
-###### EntityFramework (CodeFirst) (DbFirst)
+     EntityFramework (CodeFirst) (DbFirst)
 
 #### Web Languages
-###### Javascript
-###### Jquery
-###### Ajax
-###### Css
-###### Html
-###### Bootstrap
+     Javascript
+     Jquery
+     Ajax
+     Css
+     Html
+     Bootstrap
