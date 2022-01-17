@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 İ am junior .net Software developer.
 İ Know >
 C#
@@ -16,4 +16,4 @@ Ajax
 Css
 Html
 Bootstrap
--->
+
