@@ -3,8 +3,7 @@
 ### What i use in my projects 
 
 #### Frameworks
-     .NET Framework
-     .NET Core
+     .NET 5
     
 #### Databases
      MSSQL
