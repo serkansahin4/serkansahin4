@@ -2,6 +2,12 @@
           
 ### What i use in my projects 
 
+#### Design Pattern
+     MVC
+     Repository
+     Singleton
+     Factory
+
 #### Frameworks
      .NET Core and .NET Standart 5
      .NET Framework 4.7
