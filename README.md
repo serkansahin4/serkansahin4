@@ -16,7 +16,7 @@
      .NET Framework 4.7
     
 #### Databases
-     MSSQL
+     T-SQL With MSSQL
 
 #### ORM Technologies
      EntityFramework (CodeFirst) (DbFirst)
