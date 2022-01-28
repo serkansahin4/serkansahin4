@@ -5,11 +5,13 @@
 
 #### API
      WebApi(Restfull)
-
-#### Design Pattern 
+     
+#### Architectural Pattern
+     MVC
+     
+#### Design Patterns and Design Principle
      SOLID
      OOP
-     MVC
      Repository
      Singleton
      Factory
