@@ -20,7 +20,6 @@
     
 #### Databases
      T-SQL With MSSQL
-     ADO.NET
      LİNQ TO SQL
      ADO.NET TO SQL
 
