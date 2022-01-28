@@ -2,10 +2,13 @@
           
 ### What i use in my projects 
 
+
 #### API
      WebApi(Restfull)
 
-#### Design Pattern
+#### Design Pattern 
+     SOLID
+     OOP
      MVC
      Repository
      Singleton
@@ -17,11 +20,14 @@
     
 #### Databases
      T-SQL With MSSQL
+     ADO.NET
+     LİNQ TO SQL
+     ADO.NET TO SQL
 
 #### ORM Technologies
      EntityFramework (CodeFirst) (DbFirst)
 
-#### Web Languages
+#### Web Languages Or Structure Languages
      Javascript
      Jquery
      Ajax
