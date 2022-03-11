@@ -4,7 +4,8 @@
 
 
 #### API
-     WebApi(Restfull)
+     .Net Framework WebApi(Restfull)
+     .Net Core WebApi
      
 #### Architectural Pattern
      MVC
