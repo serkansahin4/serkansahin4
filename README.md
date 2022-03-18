@@ -21,7 +21,7 @@ Katmanlı Mimari, İdentityServer4 ile JWT bazlı yetkilendirme, Ajax ile SPA,
 EntityFramework ile CodeFirst Yaklaşımı, MSSQL Veritabanı ile SOLID
 prensiplerine uygun olarak tasarlandı.
 
->Goal (TR) : Bilge adlı bir Otel kuruluşun, geçmiş zamandaki hali hazırda olan rezervasyon ve yönetim sistemlerindeki aksaklıklar sebebiyle, sistemi bütünüyle değiştirme kararı üzerine tasarlandı. Eski sistem üzerindeki aksaklıklar ve yeni proje hakkındaki istekler için, İş Analistleri tarafından [User Analytics Document](https://github.com/serkansahin4/.NET-CORE-5-BilgeHotelProject/blob/main/Bilge%20Hotel%20Resort%20(2).doc) oluşturuldu.
+>Goal (TR) : Bilge Otel, geçmiş zamandaki hali hazırda olan rezervasyon ve yönetim sistemlerindeki aksaklıklar ve eksikler sebebiyle, sistemi bütünüyle değiştirme kararı aldı. Eski sistem üzerindeki aksaklıklar ve yeni proje hakkındaki detaylar görüşmeler sonrasında, İş Analistleri tarafından [User Analytics Document](https://github.com/serkansahin4/.NET-CORE-5-BilgeHotelProject/blob/main/Bilge%20Hotel%20Resort%20(2).doc) oluşturuldu. Proje, bu dökümandaki istekler ve eksiklikler doğrultusunda tasarlandı. Veritabanı olarak MSSQL, Arka uç olarak C# kullanıldı.
 
 >   Project Link : https://github.com/serkansahin4/.NET-CORE-5-BilgeHotelProject
 
