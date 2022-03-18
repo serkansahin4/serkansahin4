@@ -16,10 +16,10 @@
     
 ### Finished Projects
 #####    Bilge Hotel Rezervasyon ve Yönetim Sistemi
-    Kullanılan Teknolojiler : ASP.NET Core 5 MVC, RESTful Web Servisi , N
-    Katmanlı Mimari, İdentityServer4 ile JWT bazlı yetkilendirme, Ajax ile SPA,
-    EntityFramework ile CodeFirst Yaklaşımı, MSSQL Veritabanı ile SOLID
-    prensiplerine uygun olarak tasarlandı.
+Kullanılan Teknolojiler : ASP.NET Core 5 MVC, RESTful Web Servisi , N
+Katmanlı Mimari, İdentityServer4 ile JWT bazlı yetkilendirme, Ajax ile SPA,
+EntityFramework ile CodeFirst Yaklaşımı, MSSQL Veritabanı ile SOLID
+prensiplerine uygun olarak tasarlandı.
     
 >   Project Link => https://github.com/serkansahin4/.NET-CORE-5-BilgeHotelProject
 >   
