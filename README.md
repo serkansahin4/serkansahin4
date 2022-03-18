@@ -20,5 +20,5 @@
     Katmanlı Mimari, İdentityServer4 ile JWT bazlı yetkilendirme, Ajax ile SPA,
     EntityFramework ile CodeFirst Yaklaşımı, MSSQL Veritabanı ile SOLID
     prensiplerine uygun olarak tasarlandı.
-    https://github.com/serkansahin4/.NET-CORE-5-BilgeHotelProject
+    [https://github.com/serkansahin4/.NET-CORE-5-BilgeHotelProject]
 
