@@ -13,10 +13,7 @@ prensiplerine uygun olarak tasarlandı.
 
 
 #####    Bülent Ecevit University, Canteen Automation
-Kullanılan Teknolojiler (TR): ASP.NET Core 5 MVC, RESTful Web Servisi , N
-Katmanlı Mimari, İdentityServer4 ile JWT bazlı yetkilendirme, Ajax ile SPA,
-EntityFramework ile CodeFirst Yaklaşımı, MSSQL Veritabanı ile SOLID
-prensiplerine uygun olarak tasarlandı.
+Kullanılan Teknolojiler (TR): .NET Framework 4.7, N-Katmanlı Mimari, Windows Form Arayüzü
 
 >Goal (TR) : Bülent Ecevit Üniversitesinin yeni teknolojiye ayak uydurma kararı üzerine, stok takip ve çipli öğrenci kartlarına yüklenilen bakiye ve hesap numaraları ile birlikte alışveriş yapmalarını sağlayacakları otomasyon uygulaması tasarlandı. 
 
