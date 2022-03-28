@@ -19,7 +19,7 @@ Kullanılan Teknolojiler (TR): .NET Framework 4.7, N-Katmanlı Mimari, Windows F
 
 >   Project Link => https://github.com/serkansahin4/EMYO-BEUN-Kantin-otomasyonu
 
-> Project videos => https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTIzMDcyNTI2MTg1NzMy?story_media_id=2769323626682460064_49070284476&utm_medium=share_sheet
+>   Project videos => https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTIzMDcyNTI2MTg1NzMy?story_media_id=2769323626682460064_49070284476&utm_medium=share_sheet
 
 ### Skills
     ASP.NET CORE 5+
