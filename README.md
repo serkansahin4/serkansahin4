@@ -1,7 +1,7 @@
 ## 🖥️ - I am FullStack .NET Developer
 
 ### Finished Projects
-#####    Bilge Hotel, Reservation and Management System
+#####    Bilge Hotel, Reservation and Management System (BilgeAdam Akademi Finish Project)
 Kullanılan Teknolojiler (TR) : ASP.NET Core 5 MVC, RESTful Web Servisi , N
 Katmanlı Mimari, İdentityServer4 ile JWT bazlı yetkilendirme, Ajax ile SPA,
 EntityFramework ile CodeFirst Yaklaşımı, MSSQL Veritabanı ile SOLID
