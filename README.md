@@ -43,3 +43,5 @@ prensiplerine uygun olarak tasarlandı. Hazır temalar üzerinde çalışıldı.
     Object Oriented Programming
     SOLID Principles
     N-Tier Architecture
+    Design Patterns
+    TASK,TPL,PLINQ
