@@ -20,6 +20,16 @@ Kullanılan Teknolojiler (TR): .NET Framework 4.7, N-Katmanlı Mimari, Windows F
 
 >   Project Link => https://github.com/serkansahin4/EMYO-BEUN-Kantin-otomasyonu
 
+#####    Blog Site
+Kullanılan Teknolojiler (TR): ASP.NET Core 5 MVC, RESTful Web Servisi , N
+Katmanlı Mimari, İdentityServer4 ile JWT bazlı yetkilendirme, Ajax ile SPA,
+EntityFramework ile CodeFirst Yaklaşımı, MSSQL Veritabanı Normalizasyonu ve SOLID
+prensiplerine uygun olarak tasarlandı. Hazır temalar üzerinde çalışıldı. Yazar ve Admin paneli olarak iki farklı panel üzerinde ayrıca geliştirme yapıldı.
+
+>Goal (TR) : Murat yücedağın, .NET Core5 ile blog uygulaması geliştirme kampında yapmış olduğum proje.
+
+>   Project Link => https://github.com/serkansahin4/BlogSite
+
 ### Skills
     ASP.NET CORE 5+
     .NET Framework
