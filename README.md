@@ -42,7 +42,7 @@ prensiplerine uygun olarak tasarlandı. Hazır temalar üzerinde çalışıldı.
     MSSQL, Redis, MongoDB
     Dapper, EntityFramework
     Hangfire, Backgroundworker Service
-    gRPC, REST (RESTful), JSON APıs
+    gRPC, REST (RESTful), JSON APıs, SignalR
     SSE
     Authentication (Oauth, JWT, Token, Basic)
     RabbitMQ
