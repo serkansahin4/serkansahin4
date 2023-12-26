@@ -35,17 +35,17 @@ prensiplerine uygun olarak tasarlandı. Hazır temalar üzerinde çalışıldı.
 >   Project Link => https://github.com/serkansahin4/BlogSite
 
 ### Skills
-    ASP.NET CORE 5+
-    .NET Framework
-    T-SQL
-    HTML 5
-    CSS 3
-    JavaScript Es6+
-    MVC
-    RESTful Web Service
-    JSON
-    Object Oriented Programming
-    SOLID Principles
-    N-Tier Architecture
-    Design Patterns
-    TASK,TPL,PLINQ
+    Java, Javascript, C#, Python, React
+    Docker
+N-Tier, Onion
+CQRS, GOF
+MSSQL, Redis, MongoDB
+Dapper, EntityFramework
+Hangfire, Backgroundworker Service
+gRPC, REST (RESTful), JSON APıs
+SSE
+Authentication (Oauth, JWT, Token, Basic)
+RabbitMQ
+Git, GitHub,
+HTML5, CSS3, Bootstrap 4+, Jquery
+.NET Framework 4.8, .NET Core 3.1+, ASP:NET MVC, ASP:NET MVC CORE
