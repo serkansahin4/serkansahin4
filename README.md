@@ -1,10 +1,11 @@
 ## 🖥️ - I am FullStack .NET Developer
 
-### Chat Application
+### Finished Projects
+
+#####    Chat Application
 SignalR ve Asp.NET kullanarak programladığım Bir mesajlaşma uygulaması
 https://github.com/serkansahin4/WhatsappBro
 
-### Finished Projects
 #####    Bilge Hotel, Reservation and Management System (BilgeAdam Akademi Finish Project)
 Kullanılan Teknolojiler (TR) : ASP.NET Core 5 MVC, RESTful Web Servisi , N
 Katmanlı Mimari, İdentityServer4 ile JWT bazlı yetkilendirme, Ajax ile SPA,
