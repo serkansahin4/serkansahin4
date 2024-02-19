@@ -1,4 +1,4 @@
-## 🖥️ - I am FullStack .NET Developer
+## 🖥️ - FullStack .NET Developer
 
 ### Finished Projects
 
